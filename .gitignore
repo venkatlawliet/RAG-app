@@ -1,0 +1,13 @@
+# Local environment files
+.env
+.env.*
+backend/.env
+backend/.env.*
+frontend/.env
+frontend/.env.*
+
+# Claude/Codex local artifacts
+.claude/
+.agent/
+CLAUDE.md
+PROGRESS.md
